@@ -7,41 +7,41 @@ This repository features end-to-end data analytics and machine learning projects
 
 ### Big Data Sales Analysis (PySpark)
 
-Processed and analyzed large-scale sales datasets using PySpark and Spark SQL
+- Processed and analyzed large-scale sales datasets using PySpark and Spark SQL
 
-Identified regional performance, monthly sales trends, top-selling products, and revenue insights
+- Identified regional performance, monthly sales trends, top-selling products, and revenue insights
 
 ### Airline Sentiment Analysis (NLP)
 
-Implemented natural language processing (NLP) techniques to analyze airline customer reviews
+- Implemented natural language processing (NLP) techniques to analyze airline customer reviews
 
-Built machine learning models to classify sentiment and extract actionable insights
+- Built machine learning models to classify sentiment and extract actionable insights
 
 ### House Price Prediction (Machine Learning)
 
-Developed and evaluated regression models to predict house prices using historical data
+- Developed and evaluated regression models to predict house prices using historical data
 
-Performed data preprocessing, feature engineering, and model performance evaluation
+- Performed data preprocessing, feature engineering, and model performance evaluation
 
 ### Sales Dashboard (Power BI)
 
-Designed an interactive Power BI dashboard to visualize KPIs, sales trends, and performance metrics
+- Designed an interactive Power BI dashboard to visualize KPIs, sales trends, and performance metrics
 
-Enabled data-driven decision-making through clear and actionable visual insights
+- Enabled data-driven decision-making through clear and actionable visual insights
 
 ## 🛠 Technical Skills
 
-Programming: Python
+- Programming: Python
 
-Big Data: PySpark, Spark SQL
+- Big Data: PySpark, Spark SQL
 
-Data Analysis: Pandas, NumPy
+- Data Analysis: Pandas, NumPy
 
-Machine Learning & NLP: Scikit-learn, Text Processing
+- Machine Learning & NLP: Scikit-learn, Text Processing
 
-Data Visualization: Power BI
+- Data Visualization: Power BI
 
-Version Control: Git, GitHub
+- Version Control: Git, GitHub
 
 ## 🎯 Objective
 
